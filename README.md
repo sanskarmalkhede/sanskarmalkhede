@@ -5,7 +5,7 @@
 
 ## I'm a Student and Developer !!
 
-- 🔭 I just launched my first website: sanskarmalkhede.unaux.com!
+- 🔭 I just launched my first website: [sanskarmalkhede](sanskarmalkhede.unaux.com)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
