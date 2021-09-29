@@ -5,7 +5,7 @@
 
 ## I'm a Student and Developer !!
 
-- 🔭 Currently working on my new portfolio website!
+- 🔭 Currently working on something special!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
