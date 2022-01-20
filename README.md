@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanskar Malkhede - aka [SLEDGE][website] 👋
 
-[![Website](https://img.shields.io/website?label=sanskarmalkhede.unaux.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskarmalkhede.unaux.com)
+[![Website](https://img.shields.io/website?label=sanskarmalkhede.github.io/responsive-portfolio-website-sanskar/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskarmalkhede.github.io/responsive-portfolio-website-sanskar/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sanskarmalkhede?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsanskarmalkhede&screen_name=sanskarmalkhede)
 
 ## I'm a Student and Developer !!
