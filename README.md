@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left"  | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/twitter.svg" />][twitter]
-[<img align="left"  | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left"  | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
 [<img align="left"  | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
