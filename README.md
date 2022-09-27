@@ -5,16 +5,12 @@
 
 ## I'm a Student and Developer !!
 
-- 🔭 Currently working on something special!
-- 🌱 I’m currently learning everything 🤣
-
-
+🔭  Currently working on something special!
+🌱  I’m currently learning everything 🤣
 
 <br />
 <br />
 <br />
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
