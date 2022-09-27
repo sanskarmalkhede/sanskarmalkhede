@@ -6,6 +6,7 @@
 ## I'm a Student and Developer !!
 
 🔭  Currently working on something special!
+<br />
 🌱  I’m currently learning everything 🤣
 
 <br />
