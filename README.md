@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left"  | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" />][twitter]
-[<img align="left"  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left"  | Twitter" width="25px" src="https://www.svgrepo.com/show/183608/twitter.svg" />][twitter]
+[<img align="left"  | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
