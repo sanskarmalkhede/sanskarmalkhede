@@ -5,8 +5,7 @@
 
 [![@sanskarmalkhede's Holopin board](https://holopin.me/sanskarmalkhede)](https://holopin.io/@sanskarmalkhede)
 
-##Hey there! 👋
-I'm a passionate student and developer, always excited to explore the vast world of technology.
+## I'm a passionate student and developer, always excited to explore the vast world of technology.
 
 <br />
 
