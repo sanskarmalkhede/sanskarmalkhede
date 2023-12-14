@@ -5,11 +5,8 @@
 
 [![@sanskarmalkhede's Holopin board](https://holopin.me/sanskarmalkhede)](https://holopin.io/@sanskarmalkhede)
 
-## I'm a Student and Developer !!
-
-🔭  Currently working on something special!
-<br />
-🌱  I’m currently learning everything 🤣
+##Hey there! 👋
+I'm a passionate student and developer, always excited to explore the vast world of technology.
 
 <br />
 
